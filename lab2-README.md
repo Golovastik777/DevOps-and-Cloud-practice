@@ -2,7 +2,7 @@
 ## Содержание:
 - ["Bad" Dockerfile](#bad-dockerfile)
 - ["Good" Dockerfile](#good-dockerfile)
-- ["Bad Guys" в контейнерах](#bad-Практиси-в-контейнерах)
+- ["Bad Практиси" в контейнерах](#bad-Практиси-в-контейнерах)
 
 ## "Bad" Dockerfile
 ![IMG_9391](image_bad.jpg)
