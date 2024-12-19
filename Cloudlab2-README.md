@@ -8,7 +8,7 @@
 
 Импортируем .csv, имеем данные биллинга от Azure.
 
-![image](https://github.com/user-attachments/assets/2e84dfd1-5f4d-4a09-b228-b8511ffa2dfe)
+![image](inp_Cloud2.PNG)
 
 
 ## Сервисы
